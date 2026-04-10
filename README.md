@@ -1,4 +1,3 @@
-### Vlad Shorodok (shorodok.vlad) 
 ```java
 public class MyInfo {
     String role;
